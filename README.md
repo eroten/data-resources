@@ -125,6 +125,7 @@ There is no use having a visualization if folks can't read it.
 * [WebAIM (we accessibility in mind)](https://webaim.org/)
 * [Super list of color contrast tools](http://www.webaxe.org/color-contrast-tools/)
 * Many of the color tools above have specific filters and toolsets for making your web and print content
+* [Plain language guidelines](https://plainlanguage.gov/guidelines/)
 
 ## Rstats
 
