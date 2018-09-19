@@ -850,7 +850,13 @@ Then instead of having to look for the fitted values in the nested structure of 
 6         6                0.39052330      0.457 0.3099099 0.03527586  0.08061342 0.02138273 0.2436546 0.0012466081  0.3377963
 ```
 
-Then you can easily add fitted values and residuals to plots that help assess model quality. Fewer steps is good!
+Then you can easily add fitted values and residuals to plots that help assess model quality. Fewer steps is good!  
+
+#### Time Series Modeling in R
+
+* [Forecasting Using R DataCamp course](https://www.datacamp.com/home)
+* [CRAN list of Time Series Analysis resources](https://www.datacamp.com/home)
+* 
 
 ## Data
 
