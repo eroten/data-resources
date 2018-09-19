@@ -855,7 +855,7 @@ Then you can easily add fitted values and residuals to plots that help assess mo
 #### Time Series Modeling in R
 
 * [Forecasting Using R DataCamp course](https://www.datacamp.com/home)
-* [CRAN list of Time Series Analysis resources](https://www.datacamp.com/home)
+* [Time Series Analysis resources by Rob Hyndman](https://github.com/robjhyndman/ctv-TimeSeries)
 * 
 
 ## Data
